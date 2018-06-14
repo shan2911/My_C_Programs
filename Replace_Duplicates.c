@@ -28,6 +28,6 @@ s += 1;
 i++;
 }
 s = s-i;
-printf("Final_String = %s\n",s);
+printf("Modified_String = %s\n",s);
 }
 
